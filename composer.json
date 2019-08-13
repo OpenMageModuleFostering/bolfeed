@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Bolfeed",
+    "type": "magento-module",
+    "license": "MIT-License",
+    "homepage": "",
+    "description": "Publish, manage, analyze your products and sell them on bol.com. Sell your products on bol.com with Bolfeed!",
+    "authors": [
+    {
+        "name": "EasyAds",
+        "email": "development@easyads.eu"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
